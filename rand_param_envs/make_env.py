@@ -1,7 +1,7 @@
 
 import os
 
-import gym
+from rand_param_envs import gym
 import numpy as np
 import torch
 from gym.spaces.box import Box
