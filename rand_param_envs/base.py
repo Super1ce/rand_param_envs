@@ -1,6 +1,7 @@
 from rand_param_envs.gym.core import Env
 from rand_param_envs.gym.envs.mujoco import MujocoEnv
 import numpy as np
+import random
 
 
 class MetaEnv(Env):
